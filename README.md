@@ -60,7 +60,7 @@ Dashboard Preview
 |---|---|
 ![Record Video Analysis](gifs/02_rec_video_testing.gif) |
 *Live Testing — real-time detection & tether* |
-| ![Simulation Test](gifs/03-simulation.gif) | 
+| ![Simulation Test](gifs/03_simulation.gif) | 
 | *Engagement simulation Testing* | 
 
 </div>
