@@ -24,7 +24,7 @@ catenary tether estimation, and an engagement simulator, all without hardware.**
 ---
 ## 📸 Preview Gallery
 
-> Add your screenshots to an `assets/` folder next to this README, using the
+> Add our screenshots to an `assets/` folder next to this README, using the
 > exact filenames below (checklist at the bottom).
 
 <div align="center">
@@ -37,6 +37,23 @@ catenary tether estimation, and an engagement simulator, all without hardware.**
 | *Analyzed Image - altitude track & per-frame tether* | *Tether file running & testing result* |
 | ![Engagement Simulator](assets/05-simulator.png) | ![What we are setting](assets/06-architecture.png) |
 | *Engagement simulator dashboard* | *What we are setting Up?* |
+
+</div>
+---
+
+## 📸 Videos Gallery
+
+> Add our videos to an `gifs/` folder next to this README, using the
+> exact filenames below (checklist at the bottom).
+
+<div align="center">
+
+| | |
+|---|---|
+| ![Dashboard](gifs/01_dashbaord.gif) | ![Record Video Analysis](gifs/02_rec_video_testing.gif) |
+| *Full Dashboard Preview From Start to End* | *Live Testing — real-time detection & tether* |
+| ![Simulation Test](gifs/03-simulation.gif)
+| *Engagement simulation Testing* |
 
 </div>
 ---
