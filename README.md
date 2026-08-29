@@ -25,8 +25,9 @@ catenary tether estimation, and an engagement simulator, all without hardware.**
 ---
 <img width="1564" height="927" alt="Dashboard" src="https://github.com/user-attachments/assets/881f9aef-8b9a-4d64-b432-59eb377ed474" />
 <br>
+<div align="center">
 Dashboard Preview
-
+</div>
 ---
 <br>
 ## 📸 Preview Gallery
@@ -57,10 +58,10 @@ Dashboard Preview
 
 | | |
 |---|---|
-| ![Simulation Test](gifs/03-simulation.gif) | ![Record Video Analysis](gifs/02_rec_video_testing.gif) |
-| *Engagement simulation Testing* | *Live Testing — real-time detection & tether* |
-| ![Dashboard](gifs/01_dashbaord.gif) | ![]() |
-| *Full Dashboard Preview From Start to End* | *Left Blank Intentionally* |
+![Record Video Analysis](gifs/02_rec_video_testing.gif) |
+*Live Testing — real-time detection & tether* |
+| ![Simulation Test](gifs/03-simulation.gif) | 
+| *Engagement simulation Testing* | 
 
 </div>
 ---
