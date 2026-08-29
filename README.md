@@ -35,7 +35,7 @@ catenary tether estimation, and an engagement simulator, all without hardware.**
 | *Operations Console - fused + per-model boxes* | *Live camera - real-time detection & tether* |
 | ![Analyzed Image](assets/03-image-analysis.png) | ![Tether Model](assets/04-tether-test.png) |
 | *Analyzed Image - altitude track & per-frame tether* | *Tether file running & testing result* |
-| ![Engagement Simulator](assets/05-simulator.png) | ![What we are setting](assets/06-architecture.png) |
+| ![Engagement Simulator](gifs/05-simulator.png) | ![What we are setting](assets/06-architecture.png) |
 | *Engagement simulator dashboard* | *What we are setting Up?* |
 
 </div>
